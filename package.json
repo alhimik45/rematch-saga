@@ -1,6 +1,6 @@
 {
   "name": "rematch-saga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin to enable redux saga effects in Rematch",
   "keywords": [
     "redux",
@@ -21,8 +21,8 @@
     "redux-saga": "^0.16.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
     "@babel/preset-react": "^7.0.0",
     "@rematch/core": "^1.0.6",
     "babel-core": "^7.0.0-bridge.0",
