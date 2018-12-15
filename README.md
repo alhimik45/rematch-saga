@@ -1,3 +1,7 @@
+# THIS PACKAGE WORKS ONLY FOR VERY SIMPLE CASES
+
+Reasons for incomplete support described in [this comment](https://github.com/alhimik45/rematch-saga/issues/1#issuecomment-441762109). If you have any idea how to make it work, please write me.
+
 # Rematch Saga
 
 Redux-saga plugin for Rematch.
